@@ -51,3 +51,9 @@ h3 {
     color: greenyellow;
     font-family: cursive;
 }
+
+.japc {
+    color: skyblue;
+    text-transform: uppercase;
+    font-style: italic;
+}
