@@ -1,0 +1,53 @@
+* {
+    color: rgba(250, 100, 40, 0.8);
+    background-color: #000000;
+    font-family: "Times New Roman", Arial;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1.home {
+    font-weight: bold;
+    font-size: 100px;
+}
+
+a.firstlist {
+    font-size: 50px;
+    color: yellow;
+    font-weight: bolder;
+}
+
+.seoul {
+    width: 600px;
+    height: auto;
+}
+
+#bulgogi .bul{
+    text-align: left;
+    background-color: #fff;
+    font-family: Verdana;
+    color: blueviolet;
+}
+
+p {
+    color: green;
+    text-transform: uppercase;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: cursive, Georgia;
+}
+
+h2,
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.kim {
+    text-align: left;
+    color: greenyellow;
+    font-family: cursive;
+}
